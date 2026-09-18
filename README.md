@@ -21,18 +21,6 @@ Passionate about full-stack development, cloud architecture, and systems that wo
 
 ---
 
-## 📚 Projects
-
-| Repository | Link | Description | Awards |
-|------------|------|-------------|--------|
-| **BlueBay** | [Live Demo](link) | Health data unification platform for fragmented provider records | USIU Innovation Challenge '26 Semi-Finalist |
-| **Student Association MGMT** | [Live Demo](link) | Event RSVP, announcements, member directory for 200+ students | Used daily by SSSA-USIU |
-| **Library Management System** | [Live Demo](link) | Full-featured library system with auth, search, fines | Deployed on Render |
-| **Student Performance Predictor** | [Live Demo](link) | ML model predicting exam scores (85% accuracy) | Streamlit Cloud deployment |
-| **Portfolio Website** | [Website](link) | Personal site showcasing projects and philosophy | Built with React |
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Period |
